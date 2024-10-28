@@ -17,4 +17,4 @@ jobs:
         with:
           args: >
               -Dsonar.organization=arnobg
-              -Dsonar.projectKey=scala-test
+              -Dsonar.projectKey=arnobg
